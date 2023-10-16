@@ -83,7 +83,7 @@ class _SplashScreenState extends State<SplashScreen> {
                       style: TextStyle(color: Colors.black),
                     ),
                     Text(
-                      'Shazan',
+                      'Shazan Shaikh',
                       style: TextStyle(fontSize: 18, color: Colors.black),
                     )
                   ],
